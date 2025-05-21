@@ -10,14 +10,14 @@ This dashboard helps answer crucial business questions:
 - 🧠 Where should the business focus to improve profitability?
 It is built for business stakeholders who want a quick, visual understanding of overall performance.
 
-**#Tools & Features**
+# Tools & Features
 | Tool/Feature      | Description |
 | **Power BI**      | Data modeling & visualization |
 | **DAX**           | Custom KPIs and calculated measures |
 | **Slicers**       | Dynamic filtering by region, time, and product |
 | **Visuals**       | Bar charts, KPI cards, trend lines, maps |
 
-**# Key Metrics Tracked**
+# Key Metrics Tracked
 - 💰 Total Sales
 - 📉 Total Profit
 - 🧮 Profit Margin (%)
@@ -25,11 +25,11 @@ It is built for business stakeholders who want a quick, visual understanding of 
 - 📊 Product Category performance
 - 📆 Time-based trends
   
- ##  License
+ #  License
 This dashboard is shared for learning and portfolio purposes.
- ##  About Me
+ # About Me
  Email:swarnamayeekar121@gmail.com
  
- [LinkedIn](www.linkedin.com/in/swarnamayee-kar-7827a5282)
+LinkedIn:www.linkedin.com/in/swarnamayee-kar-7827a5282
 
  *Created as part of my data visualization practice and portfolio.*
