@@ -1,5 +1,3 @@
-# Sales-dashboard-PowerBI
-Interactive Power BI dashboard for visualizing sales performance, trends, and key business KPIs with slicers, trend analysis, and profitability insights for monitoring revenue and performance.
 #  Sales & Profit Dashboard – Power BI
 An interactive Power BI dashboard designed to visualize **sales performance**, **profit trends**, and key business metrics. This project showcases my ability to transform raw data into meaningful insights using modern BI tools.
 
